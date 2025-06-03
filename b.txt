@@ -1,4 +1,12 @@
 commit 2
 commit 3 push
+commit 4
+commit 5 push
+commit 8
+commit 9
+commit 10
+commit 12
+commit 13 push
+
 commit 6
 commit 7 push
